@@ -1,3 +1,3 @@
-# Practicing isues
+# Practicing issues
 
-<!-- My password is: "123465" btw -->
+<!-- My password is: "REDACTED" btw -->
