@@ -5,7 +5,7 @@ labels: Security
 body:
 - type: markdown
   attributes:
-    value: "# Testing issue templates :) This was actually a issue form!! 0_0 it's amazing"
+    value: "# Testing issue templates :) This was actually an issue form!! 0_0 it's amazing  This was never an issue form, apparently issue forms are to collect user input (basically they're the same but different purposes)"
 - type: input
   id: Report_text
   attributes:
