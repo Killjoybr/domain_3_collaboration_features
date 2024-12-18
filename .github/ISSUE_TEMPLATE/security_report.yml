@@ -6,3 +6,11 @@ body:
 - type: markdown
   attributes:
     value: "# Testing issue templates :)"
+- type: input
+  id: Report_text
+  attributes:
+    label: Report
+    description: "Describe the vulnerabilites found and how you suggest the mitigation of them"
+    placeholder: "Found Time based SQLInjection vulnerabilities on DD/MM/YYYY. Suggest ...."
+  validations:
+    required: true
